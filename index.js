@@ -1,9 +1,10 @@
+/* eslint-disable strict */
 /*!
  * dularno
- * Copyright(c) 2024 Yao Maxime KAYI
+ * Copyright(c) 2024 Yao Maxime KAYI / Agence Togo Digital
  * MIT Licensed
  */
 
-'use strict';
+"use strict";
 
-module.exports = require('./lib/dularno');
+module.exports = require("./lib/definitions");

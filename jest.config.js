@@ -1,5 +1,4 @@
-
-const esModules = [].join('|');
+const esModules = [].join("|");
 
 /** @type {import('jest').Config} */
 const config = {
@@ -8,5 +7,3 @@ const config = {
 };
 
 module.exports = config;
-
-//i am the gouverneur
